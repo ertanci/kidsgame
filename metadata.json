@@ -1,0 +1,6 @@
+{
+  "name": "Kids Mystery Mansion",
+  "description": "A fun, kid-friendly multiplayer game where players explore a mansion, complete tasks, set confetti traps, and participate in friendly deduction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
